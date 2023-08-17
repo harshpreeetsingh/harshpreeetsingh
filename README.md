@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @harshpreeetsingh
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning DS
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on GitHub
 - 📫 Linked In: linkedin.com/in/harshpreet-singh-55542b246
 
 <!---
