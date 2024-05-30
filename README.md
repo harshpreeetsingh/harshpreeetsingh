@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshpreeetsingh&label=Profile%20views&color=0e75b6&style=flat" alt="harshpreeetsingh" /> </p>
 
-- 🌱 I’m currently learning **DSA, Front End**
+- 🌱 I’m currently learning **AI, Front End**
 
 - 📫 You can reach me **harshs7879@gmail.com**
 
