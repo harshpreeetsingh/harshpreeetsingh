@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏻, I'm Harshpreet Singh</h1>
-<h3 align="center">A passionate coder from India.</h3>
+<h3 align="center">A noob coder from India.</h3>
 
 <img allign="center" alt="coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
