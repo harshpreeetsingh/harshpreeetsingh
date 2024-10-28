@@ -3,8 +3,6 @@
 
 <img allign="center" alt="coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p align="left"> <a href="https://twitter.com/harshpreetsxngh" target="blank"><img src="https://img.shields.io/twitter/follow/harshpreetsxngh?logo=twitter&style=for-the-badge" alt="harshpreetsxngh" /></a> </p>
-
 - 🌱 I’m currently learning **Artificial Intelligence**
 
 - 🗽 Reach me at **harshs7879@gmail.com**
