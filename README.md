@@ -3,6 +3,8 @@
 
 <img allign="center" alt="coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
+<img allign="center" alt="coding" width="200" src="https://gifer.com/en/Ry6p">
+
 - 🌱 I’m currently learning **Artificial Intelligence**
 
 - 🗽 Reach me at **harshs7879@gmail.com**
