@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋🏻, I'm Harshpreet Singh</h1>
 <h3 align="center">Punjabi aa gya oye!😎</h3>
 
-<img src="https://i.gifer.com/Ry6p.gif" alt="right"> 
+<img src="https://i.gifer.com/Ry6p.gif" width="400" allign="righyt" alt=""> 
 
 
 - 🌱 I’m currently learning **Artificial Intelligence**
