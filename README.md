@@ -1,9 +1,9 @@
-<img src="https://github.com/shindodkar" alt="Banner" style="width:100%; height:auto;">
+<img src="https://github.com/shindodkar" alt="" style="width:100%; height:auto;">
 
 <h1 align="center">Hi👋🏻, I'm Harshpreet Singh</h1>
 <h3 align="center">Punjabi aa gya oye!😎</h3>
 
-<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="400" align="right" alt=""> 
+<img src="https://i.gifer.com/Ry6p.gif" width="400" align="right" alt=""> 
 
 
 - 🌱 I’m currently learning **Artificial Intelligence**
@@ -16,7 +16,8 @@
 
 <br>
 
-<h3 align="left" style="display: inline;">Connect with me:</h3><img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="80" alt="">
+<h3 align="left" style="display: inline;">Connect with me:</h3>
+<img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="80" alt="">
 
 <p align="left">
 <a href="https://linkedin.com/in/harshpreeetsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshpreeetsingh" height="30" width="40" /></a>
