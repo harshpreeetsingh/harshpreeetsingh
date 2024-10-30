@@ -1,5 +1,4 @@
-[![MasterHead](https://github.com/shindodkar)
-
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi👋🏻, I'm Harshpreet Singh</h1>
 <h3 align="center">Punjabi aa gya oye!😎</h3>
 
