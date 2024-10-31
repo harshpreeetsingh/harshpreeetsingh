@@ -3,7 +3,7 @@
 <p align="center"> 
 <p align="center">
   <a href="https://harshpreeetsingh.netlify.app">
-    <img src="https://skillicons.dev/icons?i=instagram,twitter,linkedin,gamil" />
+    <img src="https://skillicons.dev/icons?i=instagram,twitter,linkedin,gmail" />
   </a>
 </p>
  
