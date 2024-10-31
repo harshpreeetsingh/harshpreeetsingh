@@ -1,19 +1,19 @@
 ![banner](https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif)
 
-<p align="center">
-  <a href="https://instagram.com/harshhhh.44" target="_blank" style="float: left;">
+<p align="center" style="font-size: 0;">
+  <a href="https://instagram.com/harshhhh.44" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  <a href="https://discord.com/users/harshhhh.44" target="_blank" style="float: left;">
+  <a href="https://discord.com/users/harshhhh.44" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
-  <a href="https://twitter.com/harshpreetsxngh" target="_blank" style="float: left;">
+  <a href="https://twitter.com/harshpreetsxngh" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
-  <a href="https://linkedin.com/in/harshpreeetsingh" target="_blank" style="float: left;">
+  <a href="https://linkedin.com/in/harshpreeetsingh" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:harshs7879@gmail.com" target="_blank" style="float: left;">
+  <a href="mailto:harshs7879@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
