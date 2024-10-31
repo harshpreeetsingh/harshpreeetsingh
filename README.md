@@ -28,7 +28,7 @@
 </p>
 
 
-### <p align="center">Technical Skills</p>
+### <p align="center">Tech Stack</p>
 
 <p align="center">
   <a href="https://harshpreeetsingh.netlify.app">
